@@ -1,2 +1,4 @@
-# git_test
-My first GitHub repo!
+# ejemplogit
+
+## Proyecto de ejemplo git
+¡Estamos aprendiendo a manejar git y GitHub!
