@@ -1,4 +1,5 @@
-# ejemplogit
+# git_test
+My first GitHubt repo!
+Hello Odin!
 
-## Proyecto de ejemplo git
-¡Estamos aprendiendo a manejar git y GitHub!
+Repasando conceptos
